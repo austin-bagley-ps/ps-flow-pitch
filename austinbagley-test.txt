@@ -1,2 +1,3 @@
 Test. This is a new file. 
 
+This is a new line that talks about this. 
